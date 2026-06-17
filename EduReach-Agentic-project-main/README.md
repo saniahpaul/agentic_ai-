@@ -31,7 +31,6 @@ An intelligent college admissions platform that helps students find the right en
 
 ```bash
 # Clone
-git clone https://github.com/meghanakr2023/EduReach-Agentic-project.git
 
 # Install & run backend
 cd edureach-platform/server
@@ -46,4 +45,4 @@ Add `.env` files with your API keys for MongoDB, Google AI, Vapi and Gmail.
 
 ---
 
-**Developer**: Meghana KR — [@meghanakr2023](https://github.com/meghanakr2023)
+
